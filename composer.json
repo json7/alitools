@@ -1,0 +1,19 @@
+{
+    "name": "json7/alitools",
+    "description": "整合阿里接口为composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "json7",
+            "email": "json7@foxmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "json7\\alitools\\": "src/"
+        }
+    }
+    "minimum-stability": "stable",
+    "require": {}
+}
