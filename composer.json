@@ -1,6 +1,7 @@
 {
     "name": "json7/alitools",
     "description": "整合阿里接口为composer",
+    "keywords": ["aliyun", "composer", "media transcoding service"],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,7 +14,7 @@
         "psr-4": {
             "json7\\alitools\\": "src/"
         }
-    }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
