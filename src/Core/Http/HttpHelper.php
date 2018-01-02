@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace json7\alitools\Http;
+namespace json7\alitools\Core\Http;
 
 class HttpHelper
 {

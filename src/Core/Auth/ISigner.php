@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace json7\alitools\Auth;
+namespace json7\alitools\Core\Auth;
 
 interface ISigner
 {

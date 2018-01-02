@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace json7\alitools\Exception;
+namespace json7\alitools\Core\Exception;
 
 class ClientException extends \Exception
 {
