@@ -70,5 +70,3 @@ class EndpointConfig
         return $endpoints;
     }
 }
-
-EndpointProvider::setEndpoints(EndpointConfig::makeEndpoints());

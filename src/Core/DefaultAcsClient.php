@@ -19,6 +19,11 @@
  */
 namespace json7\alitools\Core;
 
+use json7\alitools\Core\Exception\ClientException;
+use json7\alitools\Core\Http\HttpHelper;
+use json7\alitools\Core\Regions\EndpointProvider;
+use json7\alitools\Core\Regions\LocationService;
+
 class DefaultAcsClient implements IAcsClient
 {
     public $iClientProfile;

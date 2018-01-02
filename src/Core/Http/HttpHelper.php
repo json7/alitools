@@ -19,6 +19,11 @@
  */
 namespace json7\alitools\Core\Http;
 
+//config http proxy
+define('ENABLE_HTTP_PROXY', FALSE);
+define('HTTP_PROXY_IP', '127.0.0.1');
+define('HTTP_PROXY_PORT', '8888');
+
 class HttpHelper
 {
     public static $connectTimeout = 30;//30 second

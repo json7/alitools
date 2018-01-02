@@ -19,6 +19,11 @@
  */
 namespace json7\alitools\Core\Profile;
 
+use json7\alitools\Core\Auth\Credential;
+use json7\alitools\Core\Auth\ShaHmac1Signer;
+use json7\alitools\Core\Regions\Endpoint;
+use json7\alitools\Core\Regions\ProductDomain;
+
 class DefaultProfile implements IClientProfile
 {
 	private static $profile;

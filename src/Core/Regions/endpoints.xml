@@ -1346,4 +1346,15 @@
             <Product><ProductName>Slb</ProductName><DomainName>slb.cn-zhangjiakou.aliyuncs.com</DomainName></Product>
         </Products>
     </Endpoint>
+    <Endpoint name="mts-cn-beijing">
+        <RegionIds>
+            <RegionId>mts-cn-beijing</RegionId>
+        </RegionIds>
+        <Products>
+            <Product>
+                <ProductName>Mts</ProductName>
+                <DomainName>mts.cn-beijing.aliyuncs.com</DomainName>
+            </Product>
+        </Products>
+    </Endpoint>
 </Endpoints>
