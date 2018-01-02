@@ -15,6 +15,6 @@
             "json7\\alitools\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master",
     "require": {}
 }
